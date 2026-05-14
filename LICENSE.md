@@ -1,4 +1,4 @@
-#  
+#  secure evade Scripts offers the most advanced evade Script, with auto-collect and teleport. Perfect for dominating any match.
 
 
 
